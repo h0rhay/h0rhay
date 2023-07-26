@@ -1,6 +1,6 @@
 ## Hi I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm George a lead Front End Developer with 15 years experience. I have a strong focus on UI and design, with solid skills across the whole front end stack.
+A lead front end developer with 15 years experience building digital products, from inception through management to delivery and deployment. I have a strong focus on UI and design, with solid skills across the whole front end stack.
 
 I'm still excited about all things front end, and like to experiment with new technologies and JS frameworks that seem to arrive on a minute by minute basis!
 
