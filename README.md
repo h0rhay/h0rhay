@@ -17,8 +17,8 @@ I'm still excited about all things front end, and like to experiment with new te
   [![https://www.holidayextras.com/](https://img.shields.io/badge/Holiday%20Extras-542e91.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABJUlEQVR4AWMI0ZtIEiJXQ7rbvKqYlSRomFi54/LJxyRomFKz69uXn8gSYQb9zXFZEHamS0OGUyOqhtpd////R9aQYNX+4zpXsV95uGHfzxucazs9UDS0ZGwAagg1mLR79eXahNUQwWlF0e/PCS5v9v17h60lIRNFQ1fBlp8/fn96/x2o7d71V8kOs4CCofoTHu6XBap+dVI00rgX3Q//wWDtrFP//v7rL9sOEX91QgyoYec0O3RP9xRv/ffvP9DfofoTb154dmT7TaBgW1IGUPWNbapAckmjP4qGLM/5QOP3rb8KZO9ec/n+jVfJdi1AdS9PiAFF5laGAtn5XtUoMf3r559cn4VABtDTmxedA4bj86MS0aY9EM/0ZiZlu9WRnDQGpwYAqGlP5bTNzXIAAAAASUVORK5CYII=)](#)
 - 💻 Most used line of code:
   ```
-  export const Foo = () => (
-      <h1>Hello World!</h1>
+  export const Foo = ({ message = 'Hello World!' }) => (
+      <h1>{message}</h1>
   )
   ```
 - 🤔 I’m always looking for collaboration ideas.
