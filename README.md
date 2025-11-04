@@ -1,10 +1,10 @@
-## Hi I'm George <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## 🚀 George Clark – Lead Front End Software Engineer & Digital Product Craftsman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-A lead front end software engineer & developer with 15 years experience building digital products and the teams that create them. From product inception through management, to delivery and deployment, I have a strong focus on UI and design, with solid skills across the whole front end stack.
+With 15+ years of experience building high-impact digital products and scaling the teams behind them, I bring a rare blend of hands-on coding expertise, UI/UX craftsmanship, and product-thinking leadership. From 0→1 inception to delivery at scale, I architect, design, and build elegant front-end solutions that people actually love to use.
 
-I'm still excited about all things front end, and like to experiment with new technologies and JS frameworks that seem to arrive on a minute by minute basis!
+Design-minded. Performance-obsessed. Pixel-precise.
 
-
+My career spans launching complex apps, evolving design systems, and mentoring devs into confident engineers. I live and breathe frontend, and never lost that spark of curiosity for what’s next.
 
 [![Twitter Badge](https://img.shields.io/badge/-@h0rhay-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/h0rhay)](https://twitter.com/h0rhay)
 [![Linkedin Badge](https://img.shields.io/badge/-George-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgedesign/) 
@@ -13,13 +13,15 @@ I'm still excited about all things front end, and like to experiment with new te
 
 ### What I currently Do
 
-- 🔭 I’m currently working at [Holiday Extras](https://www.holidayextras.com/)<br/>
+- 🔭 Leading frontend engineering at [Holiday Extras](https://www.holidayextras.com/)<br/>
   [![https://www.holidayextras.com/](https://img.shields.io/badge/Holiday%20Extras-542e91.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABJUlEQVR4AWMI0ZtIEiJXQ7rbvKqYlSRomFi54/LJxyRomFKz69uXn8gSYQb9zXFZEHamS0OGUyOqhtpd////R9aQYNX+4zpXsV95uGHfzxucazs9UDS0ZGwAagg1mLR79eXahNUQwWlF0e/PCS5v9v17h60lIRNFQ1fBlp8/fn96/x2o7d71V8kOs4CCofoTHu6XBap+dVI00rgX3Q//wWDtrFP//v7rL9sOEX91QgyoYec0O3RP9xRv/ffvP9DfofoTb154dmT7TaBgW1IGUPWNbapAckmjP4qGLM/5QOP3rb8KZO9ec/n+jVfJdi1AdS9PiAFF5laGAtn5XtUoMf3r559cn4VABtDTmxedA4bj86MS0aY9EM/0ZiZlu9WRnDQGpwYAqGlP5bTNzXIAAAAASUVORK5CYII=)](#)
 - 💻 Most used line of code:
   ```
-  data.map(item => <Item key={item.id} {...item} />);
+  return () => <div className="ui-magic">{ideas.map(idea => <💡 key={idea.id} {...idea} />)}</div>;
   ```
-- 🤔 I’m always looking for collaboration ideas.
+- 🛠 Diving deep into modern stacks — React, TypeScript, Next.js, Tailwind, Storybook, the lot.
+- 🧪 Regularly experimenting with bleeding-edge tech. If a new JS framework drops, I’m probably tinkering with it already.
+- 🤝 Always open to meaningful collaborations.
 - 📫 How to reach me: clarkgeorge76@gmail.com.
 - 😋 Fun fact: Massive fan of 🧀.
 
