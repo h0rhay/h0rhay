@@ -1,4 +1,4 @@
-## 🚀 George Clark – Lead Front End Software Engineer & Digital Product Craftsman <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> George Clark – Lead Front End Software Engineer & Digital Product Craftsman
 
 With 15+ years of experience building high-impact digital products and scaling the teams behind them, I bring a rare blend of hands-on coding expertise, UI/UX craftsmanship, and product-thinking leadership. From 0→1 inception to delivery at scale, I architect, design, and build elegant front-end solutions that people actually love to use.
 
