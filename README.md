@@ -19,7 +19,7 @@ My career spans launching complex apps, evolving design systems, and mentoring d
   ```
   return () => <div className="ui-magic">{ideas.map(idea => <💡 key={idea.id} {...idea} />)}</div>;
   ```
-- 🛠 Diving deep into modern stacks — React, TypeScript, Next.js, Tailwind, Storybook, the lot.
+- 🛠 Diving deep into modern stacks — React, TypeScript, Next.js, Remix, Tanstack, Tailwind, Storybook, Hono, Supabase, Convex the lot.
 - 🧪 Regularly experimenting with bleeding-edge tech. If a new JS framework drops, I’m probably tinkering with it already.
 - 🤝 Always open to meaningful collaborations.
 - 📫 How to reach me: clarkgeorge76@gmail.com.
